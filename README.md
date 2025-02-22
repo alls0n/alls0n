@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Reach me at: lee dot allison at northeastern dot edu
+
 <!--
 **alls0n/alls0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
